@@ -19,4 +19,18 @@
       <Filter>Archivos de recursos</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="matrixA2500.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="matrixA1048576.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="matrixB2500.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+    <Text Include="matrixB1048576.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+  </ItemGroup>
 </Project>
